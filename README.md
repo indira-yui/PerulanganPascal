@@ -239,6 +239,6 @@ end.
 ![penjualab Barang B02](Pictures/PenjualanBarang_B02.png)</p>
 
 
-# Result Menghitung Gaji Karyawan
+# Result Menghitung Deret N
 
 ![Menghitung Deret N](Pictures/deret-n.png)

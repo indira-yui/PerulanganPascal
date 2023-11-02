@@ -224,3 +224,16 @@ end.
 <li>Menghitung Gaji Bersih Direktur Honorer</li></br>
 
 ![Direktur Honorer](Pictures/Direktur_Honorer.png)
+
+
+# 2. Program Menghitung Penjualan Barang
+
+<li>Program Main Interface</li></br>
+
+![Main View Penjualan Barang](Pictures/PenjualanBarang_MainView.png)</p>
+
+<li>Menghitung Barang Penjualan</li></br>
+
+![Penjualan Barang A01](Pictures/PenjualanBarang_A01.png)</p>
+
+![penjualab Barang B02](Pictures/PenjualanBarang_B02.png)</p>

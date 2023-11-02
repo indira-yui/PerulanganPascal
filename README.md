@@ -237,3 +237,8 @@ end.
 ![Penjualan Barang A01](Pictures/PenjualanBarang_A01.png)</p>
 
 ![penjualab Barang B02](Pictures/PenjualanBarang_B02.png)</p>
+
+
+# Result Menghitung Gaji Karyawan
+
+![Menghitung Deret N](Pictures/deret-n.png)
